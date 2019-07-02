@@ -6,6 +6,6 @@ public class feng {
     }
     public void functions1()
     {
-
+        System.out.println("我是feng哟");
     }
 }
